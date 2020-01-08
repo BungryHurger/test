@@ -1,0 +1,6 @@
+This is the sample file called hungry.txt.
+Ary you hungry?
+If yes you should eat.
+Else you should work.
+Else you should think.
+Else you should sleep.
