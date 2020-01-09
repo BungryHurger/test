@@ -4,3 +4,9 @@ If yes you should eat.
 Else you should work.
 Else you should think.
 Else you should sleep.
+
+yahoo! the process is
+git add -> git commit -> git push
+
+The ssh link that should to used to push is:
+git@github.com:BungryHurger/test.git
